@@ -49,3 +49,14 @@ Overlap between Company A and Company D is from 15 November 2019 to 20 February 
 Overlap between Company B and Company C is from 20 January 2020 to 01 January 2021 with a total of 348 days.
 Overlap between Company B and Company D is from 20 January 2020 to 25 December 2020 with a total of 341 days.
 Overlap between Company C and Company D is from 15 November 2019 to 01 January 2021 with a total of 414 days.
+
+## License
+
+This project is licensed under the MIT License
+
+Copyright (c) 2024 Swapnil Srivastava
+
+
+
+
+
